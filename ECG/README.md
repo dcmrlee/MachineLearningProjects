@@ -1,4 +1,4 @@
-### ECG: electrocardiogram
+# ECG: electrocardiogram
 
 ## DataSet: [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/Arrhythmia)
 
