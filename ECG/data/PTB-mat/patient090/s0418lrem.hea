@@ -1,0 +1,66 @@
+s0418lrem 15 1000 10000
+s0418lrem.mat 16+24 2000/mV 16 0 -1224 -10377 0 i
+s0418lrem.mat 16+24 2000/mV 16 0 -1597 26281 0 ii
+s0418lrem.mat 16+24 2000/mV 16 0 -372 -23901 0 iii
+s0418lrem.mat 16+24 2000/mV 16 0 1411 -9469 0 avr
+s0418lrem.mat 16+24 2000/mV 16 0 -427 -3095 0 avl
+s0418lrem.mat 16+24 2000/mV 16 0 -984 4065 0 avf
+s0418lrem.mat 16+24 2000/mV 16 0 573 5513 0 v1
+s0418lrem.mat 16+24 2000/mV 16 0 505 -7573 0 v2
+s0418lrem.mat 16+24 2000/mV 16 0 855 13502 0 v3
+s0418lrem.mat 16+24 2000/mV 16 0 -123 28494 0 v4
+s0418lrem.mat 16+24 2000/mV 16 0 -1434 -21567 0 v5
+s0418lrem.mat 16+24 2000/mV 16 0 -585 -14374 0 v6
+s0418lrem.mat 16+24 2000/mV 16 0 -669 -28003 0 vx
+s0418lrem.mat 16+24 2000/mV 16 0 -661 11234 0 vy
+s0418lrem.mat 16+24 2000/mV 16 0 -345 12178 0 vz
+# age: 51
+# sex: male
+# ECG date: 18/03/1993
+# Diagnose:
+# Reason for admission: Myocardial infarction
+# Acute infarction (localization): inferior
+# Former infarction (localization): no
+# Additional diagnoses: Obesity, Arterial hypertension 
+# Smoker: yes
+# Number of coronary vessels involved: 0
+# Infarction date (acute): 26-Oct-92
+# Previous infarction (1) date: n/a
+# Previous infarction (2) date: n/a
+# Hemodynamics:
+# Catheterization date: 16-Nov-92
+# Ventriculography: Hypokinesia antero-lateral wall
+# Chest X-ray: normal
+# Peripheral blood Pressure (syst/diast):  150/90 mmHg
+# Pulmonary artery pressure (at rest) (syst/diast): n/a
+# Pulmonary artery pressure (at rest) (mean): n/a
+# Pulmonary capillary wedge pressure (at rest): n/a
+# Cardiac output (at rest): n/a
+# Cardiac index (at rest): n/a
+# Stroke volume index (at rest): n/a
+# Pulmonary artery pressure (laod) (syst/diast): n/a
+# Pulmonary artery pressure (laod) (mean): n/a
+# Pulmonary capillary wedge pressure (load): n/a
+# Cardiac output (load): n/a
+# Cardiac index (load): n/a
+# Stroke volume index (load): n/a
+# Aorta (at rest) (syst/diast): 132/62 cmH2O
+# Aorta (at rest) mean: 86 cmH2O
+# Left ventricular enddiastolic pressure: pre ventriculography 7, post ventriculography 14 cmH2O
+# Left coronary artery stenoses (RIVA): No stenoses
+# Left coronary artery stenoses (RCX): No stenoses
+# Right coronary artery stenoses (RCA): No stenoses
+# Echocardiography: n/a
+# Therapy:
+# Infarction date: 26-Oct-92
+# Catheterization date: 16-Nov-92
+# Admission date: 26-Oct-92
+# Medication pre admission: Lactulose
+# Start lysis therapy (hh.mm): 12:45
+# Lytic agent: Streptokinase
+# Dosage (lytic agent): 1.5 Mio IE
+# Additional medication: Heparin ASA Isosorbit-Dinitrate Molsidomin
+# In hospital medication: ASA
+# Medication after discharge: ASA
+#Creator: wfdb2mat
+#Source: record ptb/patient090/s0418lre

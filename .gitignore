@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+ecg.log
+ecg.log.wf
